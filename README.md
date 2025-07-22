@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](logo_casmar2000_verde_blanco.webp)
 # Casmar2000 · Gestión y suministro industrial
 
 Bienvenido al repositorio oficial de **Casmar2000, S.A.**, una empresa dedicada al suministro industrial, protección laboral (EPIs) y soluciones para profesionales desde hace más de 25 años.
